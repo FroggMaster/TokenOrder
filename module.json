@@ -5,11 +5,11 @@
   "description": "See the Token you really need: For when your entire party falls into a pit full of annoyed badgers.",
   "author": "FrogMaster",
   "authors": [ { "name": "FrogMaster", "discord": "Frog#5373", "url": "https://github.com/FroggMaster" } ],
-  "url": "https://github.com/FroggMaster/pushTokenBack",
+  "url": "https://github.com/FroggMaster/TokenOrder",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "9.0",
-  "manifest": "https://github.com/FroggMaster/pushTokenBack/releases/latest/download/module.json",
-  "download": "https://github.com/FroggMaster/pushTokenBack/releases/latest/download/module.zip",
+  "manifest": "https://github.com/FroggMaster/TokenOrder/releases/latest/download/module.json",
+  "download": "https://github.com/FroggMaster/TokenOrder/releases/latest/download/module.zip",
   "scripts": ["pushTokenBack.js"],
   "packs":[
   {
