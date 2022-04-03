@@ -5,8 +5,8 @@ TokenOrder.hotkey='';
 
 Hooks.on('init', () => {
 	game.settings.register('TokenOrder', 'hotkey', {
-		name: game.i18n.localize("TokenOrder.SelectHotKey"),
-		hint: game.i18n.localize("TokenOrder.SelectHotKeyHelp"),
+		name: game.i18n.localize("TOKENORDER.SelectHotKey"),
+		hint: game.i18n.localize("TOKENORDER.SelectHotKeyHelp"),
 		scope: 'client',   
 		config: true,      
 		type: String,     
