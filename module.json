@@ -1,8 +1,8 @@
 {
-  "name": "Token Order",
-  "title": "Token Order - Reveal Tokens Buried Behind Each Other",
+  "name": "TokenOrder",
+  "title": "Token Order",
   "version": "1.2.0",
-  "description": "See the Token you really need: For when your entire party falls into a pit full of annoyed badgers.",
+  "description": "See the Token you really need: reveal tokens that are behind each other.",
   "author": "FrogMaster",
   "authors": [ { "name": "FrogMaster", "discord": "Frog#5373", "url": "https://github.com/FroggMaster" } ],
   "url": "https://github.com/FroggMaster/TokenOrder",
@@ -10,12 +10,12 @@
   "compatibleCoreVersion": "9.0",
   "manifest": "https://github.com/FroggMaster/TokenOrder/releases/latest/download/module.json",
   "download": "https://github.com/FroggMaster/TokenOrder/releases/latest/download/module.zip",
-  "scripts": ["pushTokenBack.js"],
+  "scripts": ["TokenOrder.js"],
   "packs":[
   {
-    "name": "pushtokenback",
-    "label": "PushTokenBack",
-    "path": "/packs/pushtokenback.db",
+    "name": "tokenorder",
+    "label": "TokenOrder",
+    "path": "/packs/TokenOrder.db",
     "entity": "Macro",
 	"package":"module"
   }],
