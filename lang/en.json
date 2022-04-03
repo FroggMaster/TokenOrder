@@ -1,4 +1,4 @@
 {
 	"TOKENORDER.SelectHotKey": "Hotkey to change Token Order(case sensitive):",
-    "TOKENORDER.SelectHotKeyHelp": "When floating the mouse cursor over a token that is obstructing your view of other tokens, pressing this key will push the token to the bottom of the render stack, allowing you to access any tokens which were beneath it."
+    "TOKENORDER.SelectHotKeyHelp": "When you hover your mouse cursor over a token that is blocking your view of other tokens and press this key, the token will be pushed to the bottom of the render stack, allowing you to access any tokens beneath it."
 }
