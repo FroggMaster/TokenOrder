@@ -22,10 +22,9 @@
   "packs":[
   {
     "name": "tokenorder",
-    "label": "TokenOrder",
+    "label": "Token Order",
     "path": "/packs/TokenOrder.db",
-    "entity": "Macro",
-	"package":"module"
+    "type": "module"	  
   }],
   "system": [],
   "dependencies": [],
