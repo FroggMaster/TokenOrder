@@ -24,5 +24,4 @@ This Foundry VTT module, is licensed under a [Creative Commons Attribution 4.0 I
 This work is licensed under Foundry Virtual Tabletop [EULA - Limited License Agreement for module development v 0.1.6](http://foundryvtt.com/pages/license.html).
 
 ## Thanks 
-- Special thanks to KaKaRoTo the original author of this VTT Module
-- Pepijn for the single click change
+- Special thanks to David-Zvekic the original author of this VTT Module
