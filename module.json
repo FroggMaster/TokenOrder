@@ -24,7 +24,7 @@
     "name": "tokenorder",
     "label": "Token Order",
     "path": "/packs/TokenOrder.db",
-    "type": "module"	  
+    "type": "Item"	  
   }],
   "system": [],
   "dependencies": [],
