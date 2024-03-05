@@ -1,6 +1,5 @@
 # Token Order
-**Token Order** - Reveal Tokens Buried Behind Each Other
-***
+## Token Order - Reveal Tokens Buried Behind Each Other
 A module for Foundry VTT.
 
 With **Token Order** you can float your cusor over foreground obstructing tokens, press a hot-key and send them to the back of stack. This allows you to access the token you want, even when it's hidden beneath others.
@@ -9,7 +8,7 @@ With **Token Order** you can float your cusor over foreground obstructing tokens
 
 This is especially useful in games where players may fight many enemies in close quarters and tokens crawl over each other, occasionally preventing a player or GM from being able to see or manipulate the token they need.
 
-**Usage**
+# Usage
 1. Float your cursor over a token which is obstructing your view of other tokens.
 2. Press the Hotkey associated with **Token Order**. You can change this in Foundry VTT settings. The default is "Z".  
 3. The token will be pushed beneath any other tokens it was hiding, allowing you to access them normally.
@@ -23,5 +22,5 @@ Notes: **Token Order** does not actually manipulate tokens on the server, it is 
 This Foundry VTT module, is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 This work is licensed under Foundry Virtual Tabletop [EULA - Limited License Agreement for module development v 0.1.6](http://foundryvtt.com/pages/license.html).
 
-## Thanks 
+# Thanks 
 - Special thanks to David-Zvekic the original author of this VTT Module
