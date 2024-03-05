@@ -24,7 +24,9 @@
     "name": "tokenorder",
     "label": "Token Order",
     "path": "/packs/TokenOrder.db",
-    "type": "Item"	  
+    "entity": "Macro",
+    "type": "Macro",
+    "private": false
   }],
   "system": [],
   "dependencies": [],
